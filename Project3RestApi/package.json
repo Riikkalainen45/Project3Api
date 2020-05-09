@@ -1,0 +1,25 @@
+{
+  "name": "project3",
+  "version": "0.1.0",
+  "description": "A sample Node.js app in Heroku",
+  "engines": {
+    "node": "12.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Riikkalainen45/Project3Api"
+  },
+  "keywords": [
+    "restapi"
+  ],
+  "author": "Riikkalainen",
+  "license": "ISC",
+  "dependencies": {
+    "ajax": "0.0.4",
+    "express": "^4.17.1"
+  }
+}
